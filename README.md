@@ -6,4 +6,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnyjoxenfree&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyjoxenfree&exclude_repo=newsBot&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyjoxenfree&exclude_repo=newsBot,todo-app,website,meal-maker,portfoliowebsite,assman,eat-harmony&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
