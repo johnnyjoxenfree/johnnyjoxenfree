@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning C++, Java, and Node.js
 - :zap: Fun fact: I can play thirteen different musical instruments :)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnyjoxenfree&show_icons=true&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnyjoxenfree&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyjoxenfree&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyjoxenfree&exclude_repo=newsBot&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
