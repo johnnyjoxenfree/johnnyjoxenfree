@@ -14,7 +14,7 @@ I am a 3rd year Computing and Security Technology student at Drexel UniversityğŸ
 ### ğŸ“ˆ GitHub Stats
 
 
-<div width="100%" style="text-align: center; align: center">
+<p width="100%" align="center">
     <a href="https://github.com/johnnyjoxenfree/johnnyjoxenfree">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=johnnyjoxenfree&theme=merko&date_format=M%20j%5B%2C%20Y%5D" />
     </a>
@@ -30,4 +30,4 @@ I am a 3rd year Computing and Security Technology student at Drexel UniversityğŸ
     <a href="https://github.com/johnnyjoxenfree/amogusay">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnyjoxenfree&repo=amogusay&theme=merko" />
     </a>
-</div>  
+</p>  
